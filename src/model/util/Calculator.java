@@ -19,7 +19,7 @@ final public class Calculator {
      * disable instance creation
      */
     private Calculator() {
-        throw new UnsupportedOperationException("can't create instance of the class");
+        throw new UnsupportedOperationException("can't create instance of the classs");
     }
 
     /**
